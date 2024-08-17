@@ -1,4 +1,4 @@
-<h1 align="center">Doxsint Tool</h1>
+<h1 align="center">Baewa Hunter</h1>
 
 <br>
 
