@@ -9,7 +9,7 @@ Tool ini berfungsi untuk menampilkan sedikit identitas dari pemilik nomer rekeni
 `$ pip3 install requests colorama`
 
 # Usage
-`$ python3 exe.py`
+`$ python3 search.py`
 
 # Disclamer
 Saya tidak bertangung jawab atas tindakan pengguna, mohon gunakan dengan bijak walaupun ini data yang di cari bersifat opensource
