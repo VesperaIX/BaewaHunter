@@ -1,2 +1,24 @@
-# BaewaHunter
+<h1 align="center">Doxsint Tool</h1>
+
+<br>
+
 Tool ini berfungsi untuk menampilkan sedikit identitas dari pemilik nomer rekening / ewallet
+
+# Instalation
+`$ git clone https://github.com/ZeroSaturnn/BaewaHunter && cd BaewaHunter`<br>
+`$ pip3 install requests colorama`
+
+# Usage
+`$ python3 exe.py`
+
+# Disclamer
+Saya tidak bertangung jawab atas tindakan pengguna, mohon gunakan dengan bijak walaupun ini data yang di cari bersifat opensource
+<br>
+<br>
+Regards,
+<br>
+Zerosaturnn
+
+**Author:**
+- **Zerosaturnn**
+- **Discord: zerosaturn_**
