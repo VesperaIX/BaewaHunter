@@ -5,7 +5,7 @@
 Tool ini berfungsi untuk menampilkan sedikit identitas dari pemilik nomer rekening / ewallet
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/BaewaHunter && cd BaewaHunter`<br>
+`$ git clone https://github.com/VesperaIX/BaewaHunter && cd BaewaHunter`<br>
 `$ pip3 install requests colorama`
 
 # Usage
@@ -17,8 +17,8 @@ Saya tidak bertangung jawab atas tindakan pengguna, mohon gunakan dengan bijak w
 <br>
 Regards,
 <br>
-Zerosaturnn
+VesperaIX
 
 **Author:**
-- **Zerosaturnn**
-- **Discord: zerosaturn_**
+- **VesperaIX**
+- **Discord: VesperaIX**
