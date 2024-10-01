@@ -1,5 +1,9 @@
 <h1 align="center">Baewa Hunter</h1>
 
+<p align="center">
+    <img src="https://github.com/VesperaIX/BaeawaHunter/blob/main/baewa.png">
+</p>
+
 <br>
 
 Tool ini berfungsi untuk menampilkan sedikit identitas dari pemilik nomer rekening / ewallet
